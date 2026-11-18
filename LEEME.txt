@@ -1,0 +1,16 @@
+RECURSOS · GUÍA PRÁCTICA DE LABORATORIO N.º 11 · DESARROLLO WEB I
+Pastelería Mishky — Catálogo dinámico con JSON y filtro por categoría
+Docente: Mag. Charles García Donayres
+
+Contenido:
+  img/logo.png            Logotipo (1150 × 340 px, fondo transparente)
+  img/favicon.png         Ícono de la pestaña (64 × 64 px)
+  img/banner.jpg          Imagen de portada (1920 × 720 px)
+  img/sin-imagen.jpg      Imagen de respaldo cuando falta una foto
+  img/productos/*.jpg     16 fotografías de productos (900 × 900 px)
+  css/estilos.css         Hoja de estilos lista para usar
+
+Copie las carpetas img y css dentro de su carpeta de proyecto "pasteleria-mishky".
+Recuerde: abra catalogo.html con Live Server (no con doble clic).
+
+Las imágenes son renders 3D originales creados para este laboratorio; pueden usarse libremente con fines educativos.
